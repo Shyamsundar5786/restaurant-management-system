@@ -34,8 +34,8 @@ public:
         head_cus = tail_cus = nullptr;
         head_adm = tail_adm = nullptr;
         head_sale = nullptr;
-        id = 11911963;
-        password = "akash@abhiraj";
+        id = 12015786;
+        password = "Shyam@123";
     }
 
     // CUSTOMER MENU
@@ -542,7 +542,7 @@ public:
     void MainScreen()
     {
         cout << "\t\t-------------------------------------------------------------------------" << endl;
-        cout << "\t\t\t\t\tWELCOME TO HOTEL AKASH" << endl;
+        cout << "\t\t\t\t\tWELCOME TO Yadav Ji Restaurant " << endl;
         cout << "\t\t-------------------------------------------------------------------------" << endl;
         cout << "\t\t\t\t1.ADMIN SECTION" << endl;
         cout << "\t\t\t\t2.CUSTOMER SECTION" << endl;
